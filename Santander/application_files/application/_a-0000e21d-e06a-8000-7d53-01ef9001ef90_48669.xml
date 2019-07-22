@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>c6cd3a65-8bd5-4349-9748-089fd4ac4506</versionUuid>
+    <versionUuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_44184</versionUuid>
     <application>
         <name>Environmental Activity Permits</name>
         <uuid>_a-0000e21d-e06a-8000-7d53-01ef9001ef90_48669</uuid>
@@ -54,6 +54,8 @@
                         <uuid>_a-0000e268-07ce-8000-23f0-01ef9001ef90_31015</uuid>
                         <uuid>_a-0000e255-ca76-8000-23f0-01ef9001ef90_40957</uuid>
                         <uuid>_a-0000e255-ca76-8000-23f0-01ef9001ef90_40963</uuid>
+                        <uuid>_a-0000e255-ca76-8000-23f0-01ef9001ef90_42152</uuid>
+                        <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_44179</uuid>
                     </uuids>
                 </item>
                 <item>
@@ -242,7 +244,9 @@
                 <groups/>
             </role>
             <role allowForAll="false" inherit="false" name="administrators">
-                <users/>
+                <users>
+                    <userUuid>kiranj</userUuid>
+                </users>
                 <groups>
                     <groupUuid>_e-0000e21d-e05a-8000-7d4f-011e94011e94_61</groupUuid>
                 </groups>
@@ -283,7 +287,7 @@
         <historyInfo versionUuid="_a-0000e255-ca76-8000-23f0-01ef9001ef90_40899"/>
         <historyInfo versionUuid="_a-0000e255-ca76-8000-23f0-01ef9001ef90_40968"/>
         <historyInfo versionUuid="_a-0000e255-ca76-8000-23f0-01ef9001ef90_41427"/>
-        <historyInfo versionUuid="c6cd3a65-8bd5-4349-9748-089fd4ac4506"/>
-        <historyInfo versionUuid="37e5e31d-44ec-4cbb-b937-98e0e76a13e8"/>
+        <historyInfo versionUuid="_a-0000e255-ca76-8000-23f0-01ef9001ef90_42157"/>
+        <historyInfo versionUuid="_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_44184"/>
     </history>
-</applicationHaul><!--updated on 2019-06-23T23:03:44.406-->
+</applicationHaul><!--updated on 2019-07-22T18:17:55.170-->
