@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>4012fc3e-cbf0-428b-8732-784c4b68ae7e</versionUuid>
+    <versionUuid>a3de0f20-b714-4092-a646-1ab9894c51e8</versionUuid>
     <application>
         <name>Payment Screening</name>
         <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_44946</uuid>
@@ -49,6 +49,8 @@
                         <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_44968</uuid>
                         <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_45302</uuid>
                         <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_45308</uuid>
+                        <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_45468</uuid>
+                        <uuid>_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_45488</uuid>
                     </uuids>
                 </item>
                 <item>
@@ -251,5 +253,6 @@
     <history>
         <historyInfo versionUuid="_a-0000e2cb-d2c4-8000-23f0-01ef9001ef90_45003"/>
         <historyInfo versionUuid="4012fc3e-cbf0-428b-8732-784c4b68ae7e"/>
+        <historyInfo versionUuid="a3de0f20-b714-4092-a646-1ab9894c51e8"/>
     </history>
-</applicationHaul><!--updated on 2019-09-03T16:14:31.226-->
+</applicationHaul><!--updated on 2019-09-03T16:41:41.311-->
